@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PPT on Giulio Zhu</title>
+    <link>https://GiulioZhu.github.io/techs/ppt/</link>
+    <description>Recent content in PPT on Giulio Zhu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© GiulioZhu</copyright>
+    <lastBuildDate>Sun, 02 Oct 2022 00:00:00 +0100</lastBuildDate><atom:link href="https://GiulioZhu.github.io/techs/ppt/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>UCL Induction Week Hackathon &#34;Our World in Crisis&#34;</title>
+      <link>https://GiulioZhu.github.io/portfolio/projects/hackathon/</link>
+      <pubDate>Sun, 02 Oct 2022 00:00:00 +0100</pubDate>
+      
+      <guid>https://GiulioZhu.github.io/portfolio/projects/hackathon/</guid>
+      <description>“We struggle to close the feedback loop on issues in real-time. We need to increase our transparency and accountability to our stakeholders and be responsive to issues they raise quickly.” -Oxfam GB
+This project tackles Oxfam&amp;rsquo;s Accountability problem in terms of transparency and accountability to stakeholders and responsiveness to real-time issues.
+“Any technical solution would need to consider ease of use, accessibility and scalability, as well as the reality of survey fatigue.</description>
+    </item>
+    
+  </channel>
+</rss>
