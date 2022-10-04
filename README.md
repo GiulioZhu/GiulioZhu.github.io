@@ -1,9 +1,7 @@
-## Editor ##
-This folder is for the solely purpose of editing the website. All the changes will be compiled with 
-```YAML
-> Bash: hugo
-```
-and then placed in the Github repository.
+## Website ##
+This is my website where I show both my projects and my posts.
+Inside projects I will upload the works that I've done, while inside posts I will share my ideas and thoughts over time.
+Hope you enjoy it!
 
 ## License
 
