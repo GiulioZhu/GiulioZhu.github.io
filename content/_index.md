@@ -1,7 +1,7 @@
 ---
-title: HOME
-description: Welcome to this sample project
-images: ["/images/sample.jpg"]
+title: Giulio Zhu
+description: This is my personal website
+images: ["/images/giulio-icon.png"]
 ---
 
 Hey, :wave:
