@@ -21,4 +21,4 @@ Some flaws:
 - When the player crashes to the side wall, it slows down. This allows an easier gameplay.
 - When the player crashes into an obstacle, the level is set to replay by default, not allowing the user to freely exit the level.
 
-For more info and download the game, check out the link.
+For more info and download the game, check out the link at the top of the page.
